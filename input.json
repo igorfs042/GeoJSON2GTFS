@@ -6707,5 +6707,896 @@
                 "routeTypes": 1
             }
         ]
+    },
+    {
+        "id": 9,
+        "long_name": "BELO HORIZONTE/BOM JESUS",
+        "short_name": "BHBJ01",
+        "calendar": [
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            }
+        ],
+        "stop_times": [
+            {
+                "departure_time": {
+                    "hour": 5,
+                    "minute": 45
+                },
+                "arrival time": {
+                    "hour": 16,
+                    "minute": 30
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 0
+                },
+                "arrival time": {
+                    "hour": 11,
+                    "minute": 55
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 35
+                },
+                "arrival time": {
+                    "hour": 17,
+                    "minute": 20
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 35
+                },
+                "arrival time": {
+                    "hour": 12,
+                    "minute": 45
+                }
+            }
+        ],
+        "stops": [
+            {
+                "id": 3949882,
+                "mnemonic": "R. Zeus - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.235778,
+                    "lng": -37.338276
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949983,
+                "mnemonic": "R. Zeus - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.233954,
+                    "lng": -37.341576
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949982,
+                "mnemonic": "R. Zeus - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.233049,
+                    "lng": -37.34299
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949991,
+                "mnemonic": "R. Cratos, 10 - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.231814,
+                    "lng": -37.344852
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949980,
+                "mnemonic": "Rua Sebastião Benício da Silva, 387 - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.230126,
+                    "lng": -37.346905
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949979,
+                "mnemonic": "Rua Manoel Balbino da Costa, 1604 - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.229077,
+                    "lng": -37.34857
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949978,
+                "mnemonic": "Rua Josefa Xavier de Medeiros, 56 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.228559,
+                    "lng": -37.350853
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949995,
+                "mnemonic": "Rua Nilza Pires de Almeida, 1288, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.230327,
+                    "lng": -37.35159
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949996,
+                "mnemonic": "Rua Antônio Geraldo de Medeiros, 281 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.229163,
+                    "lng": -37.352917
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949975,
+                "mnemonic": "R. Januário Granjeiro, 94 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.227331,
+                    "lng": -37.352337
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949997,
+                "mnemonic": "R. Januário Granjeiro, 88 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.225395,
+                    "lng": -37.351177
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949998,
+                "mnemonic": "Av. Alberto Maranhão, 6901-7097 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.216999,
+                    "lng": -37.363586
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950000,
+                "mnemonic": "Av. Alberto Maranhão, 5845-6071 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.212263,
+                    "lng": -37.357635
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950001,
+                "mnemonic": "Av. Alberto Maranhão, 5699-5739 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.209938,
+                    "lng": -37.355846
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950002,
+                "mnemonic": "Av. Alberto Maranhão, 5297-5399 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.20653,
+                    "lng": -37.353767
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950003,
+                "mnemonic": "Av. Alberto Maranhão, 478-548 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.201817,
+                    "lng": -37.35073
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950004,
+                "mnemonic": "Av. Alberto Maranhão, 854 - Centro, Mossoró - RN, 59600-195, Brasil",
+                "location": {
+                    "lat": -5.199057,
+                    "lng": -37.349007
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950005,
+                "mnemonic": "Av. Alberto Maranhão, 1150 - Centro, Mossoró - RN, 59600-195, Brasil",
+                "location": {
+                    "lat": -5.196958,
+                    "lng": -37.34767
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949604,
+                "mnemonic": "Av. Alberto Maranhão, 1666-1690 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192811,
+                    "lng": -37.345127
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949716,
+                "mnemonic": "R. Cel. Gurgel, 106 - Alto da Conceição, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192626,
+                    "lng": -37.34291
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949717,
+                "mnemonic": "R. Cel. Gurgel, 235-285 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.19395,
+                    "lng": -37.34368
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949719,
+                "mnemonic": "R. Cel. Gurgel, 692 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.197364,
+                    "lng": -37.345806
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949720,
+                "mnemonic": "Av. Cunha da Mota, 445-523 - Centro, Mossoró - RN, 59600-160, Brasil",
+                "location": {
+                    "lat": -5.197718,
+                    "lng": -37.34525
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950038,
+                "mnemonic": "R. José de Alençar, 94 - Alto da Conceição, Mossoró - RN, 59600-190, Brasil",
+                "location": {
+                    "lat": -5.194238,
+                    "lng": -37.34481
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950038,
+                "mnemonic": "R. José de Alençar, 94 - Alto da Conceição, Mossoró - RN, 59600-190, Brasil",
+                "location": {
+                    "lat": -5.194238,
+                    "lng": -37.34481
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949605,
+                "mnemonic": "Av. Alberto Maranhão, 2040 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.189852,
+                    "lng": -37.34333
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949606,
+                "mnemonic": "R. Meira e Sá, 163-237 - Centro, Mossoró - RN, 59610-120, Brasil",
+                "location": {
+                    "lat": -5.190001,
+                    "lng": -37.342255
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949948,
+                "mnemonic": "R. Dr. Mario Negócio, 126-142 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190442,
+                    "lng": -37.34034
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949949,
+                "mnemonic": "R. Dr. Mario Negócio, 320-382 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.18939,
+                    "lng": -37.33869
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949950,
+                "mnemonic": "R. Mário Negócio, 2-90 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.188575,
+                    "lng": -37.337585
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949951,
+                "mnemonic": "R. Prudente de Morais, 1443-1553 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.187072,
+                    "lng": -37.33854
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949613,
+                "mnemonic": "R. Prudente de Morais, 1223-1315 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.185908,
+                    "lng": -37.34045
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949614,
+                "mnemonic": "R. Prudente de Morais, 1101-1155 - Paredões, Mossoró - RN, 59618-045, Brasil",
+                "location": {
+                    "lat": -5.185405,
+                    "lng": -37.34134
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949615,
+                "mnemonic": "R. Juvenal Lamartine, 375 - Centro, Mossoró - RN, 59611-100, Brasil",
+                "location": {
+                    "lat": -5.184977,
+                    "lng": -37.34309
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949953,
+                "mnemonic": "R. Juvenal Lamartine, 107-199 - Centro, Mossoró - RN, 59603-040, Brasil",
+                "location": {
+                    "lat": -5.186611,
+                    "lng": -37.344105
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949954,
+                "mnemonic": "R. Dr. João Marcelino, 2-78 - Santo Antônio, Mossoró - RN, 59611-200, Brasil",
+                "location": {
+                    "lat": -5.187384,
+                    "lng": -37.344933
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949955,
+                "mnemonic": "R. Dr. João Marcelino, 381-451 - Santo Antônio, Mossoró - RN, 59611-200, Brasil",
+                "location": {
+                    "lat": -5.185378,
+                    "lng": -37.347713
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949958,
+                "mnemonic": "Av. Diocesano, 138-146 - Doze Anos, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.185191,
+                    "lng": -37.352036
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949959,
+                "mnemonic": "Av. Diocesano, 318-360 - Doze Anos, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.187561,
+                    "lng": -37.353874
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949960,
+                "mnemonic": "Av. Diocesano, 30 - Doze Anos, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.189766,
+                    "lng": -37.35557
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949897,
+                "mnemonic": "R. Francisco Sólon, 417-457 - Boa Vista, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.193359,
+                    "lng": -37.35659
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949940,
+                "mnemonic": "R. Francisco Sólon, 534-596 - Boa Vista, Mossoró - RN, 59605-280, Brasil",
+                "location": {
+                    "lat": -5.194539,
+                    "lng": -37.356937
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949962,
+                "mnemonic": "R. Francisco Bernardo, 156E - Lagoa do Mato, Mossoró - RN, 59604-060, Brasil",
+                "location": {
+                    "lat": -5.196998,
+                    "lng": -37.35693
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949942,
+                "mnemonic": "R. Coelho Neto, 360-436 - Lagoa do Mato, Mossoró - RN, 59605-320, Brasil",
+                "location": {
+                    "lat": -5.19771,
+                    "lng": -37.355804
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949963,
+                "mnemonic": "R. Prof. Manuel Freire, 383-465 - Alto da Conceição, Mossoró - RN, 59600-770, Brasil",
+                "location": {
+                    "lat": -5.198947,
+                    "lng": -37.356594
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949964,
+                "mnemonic": "R. Jaen Menescal, 165-227 - Lagoa do Mato, Mossoró - RN, 59604-200, Brasil",
+                "location": {
+                    "lat": -5.201815,
+                    "lng": -37.35791
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949965,
+                "mnemonic": "R. Jaen Menescal, 361-417 - Lagoa do Mato, Mossoró - RN, 59604-200, Brasil",
+                "location": {
+                    "lat": -5.203637,
+                    "lng": -37.358162
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949966,
+                "mnemonic": "R. Souza Leão, 188-332 - Lagoa do Mato, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.206243,
+                    "lng": -37.359314
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949967,
+                "mnemonic": "Rua Zeca Medeiros, 402-572 - Lagoa do Mato, Mossoró - RN, 59604-090, Brasil",
+                "location": {
+                    "lat": -5.207232,
+                    "lng": -37.360764
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949968,
+                "mnemonic": "Rua Zeca Medeiros, 220-400 - Lagoa do Mato, Mossoró - RN, 59604-090, Brasil",
+                "location": {
+                    "lat": -5.209151,
+                    "lng": -37.36166
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949969,
+                "mnemonic": "Rua Zeca Medeiros, 2-42 - Lagoa do Mato, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.210543,
+                    "lng": -37.36223
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949970,
+                "mnemonic": "R. Dom Helder Câmara, 1152-1264 - Belo Horizonte, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.211938,
+                    "lng": -37.361477
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949971,
+                "mnemonic": "R. Vicente Martins, 217-299 - Belo Horizonte, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.212802,
+                    "lng": -37.361843
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949972,
+                "mnemonic": "R. Vicente Martins, 169 - Belo Horizonte, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.213617,
+                    "lng": -37.360287
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949999,
+                "mnemonic": "Av. Alberto Maranhão, 6348-6452 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.2141623,
+                    "lng": -37.360153
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949973,
+                "mnemonic": "Av. Alberto Maranhão, 6902-6958 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.216986,
+                    "lng": -37.36367
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949997,
+                "mnemonic": "R. Januário Granjeiro, 88 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.225395,
+                    "lng": -37.351177
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949975,
+                "mnemonic": "R. Januário Granjeiro, 94 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.227331,
+                    "lng": -37.352337
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949996,
+                "mnemonic": "Rua Antônio Geraldo de Medeiros, 281 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.229163,
+                    "lng": -37.352917
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949995,
+                "mnemonic": "Rua Nilza Pires de Almeida, 1288, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.230327,
+                    "lng": -37.35159
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949978,
+                "mnemonic": "Rua Josefa Xavier de Medeiros, 56 - Bom Jesus, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.228559,
+                    "lng": -37.350853
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949979,
+                "mnemonic": "Rua Manoel Balbino da Costa, 1604 - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.229077,
+                    "lng": -37.34857
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949980,
+                "mnemonic": "Rua Sebastião Benício da Silva, 387 - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.230126,
+                    "lng": -37.346905
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949991,
+                "mnemonic": "R. Cratos, 10 - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.231814,
+                    "lng": -37.344852
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949982,
+                "mnemonic": "R. Zeus - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.233049,
+                    "lng": -37.34299
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949983,
+                "mnemonic": "R. Zeus - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.233954,
+                    "lng": -37.341576
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949882,
+                "mnemonic": "R. Zeus - Alto do Sumaré, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.235778,
+                    "lng": -37.338276
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            }
+        ]
     }
 ]
