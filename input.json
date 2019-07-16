@@ -9272,5 +9272,675 @@
                 "routeTypes": 1
             }
         ]
+    },
+    {
+        "id": 17,
+        "long_name": "ODETE ROSADO",
+        "short_name": "ODRO01",
+        "calendar": [
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            }
+        ],
+        "stop_times": [
+            {
+                "departure_time": {
+                    "hour": 5,
+                    "minute": 45
+                },
+                "arrival time": {
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 35
+                },
+                "arrival time": {
+                    "hour": 18,
+                    "minute": 30
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 40
+                },
+                "arrival time": {
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 5,
+                    "minute": 45
+                },
+                "arrival time": {
+                    "hour": 13,
+                    "minute": 0
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 0
+                },
+                "arrival time": {
+                    "hour": 11,
+                    "minute": 45
+                }
+            }
+        ],
+        "stops": [
+            {
+                "id": 3979238,
+                "mnemonic": "-5.2266803, -37.285397",
+                "location": {
+                    "lat": -5.2266803,
+                    "lng": -37.285397
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979237,
+                "mnemonic": "-5.2252703, -37.285065",
+                "location": {
+                    "lat": -5.2252703,
+                    "lng": -37.285065
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979236,
+                "mnemonic": "-5.224063, -37.284756",
+                "location": {
+                    "lat": -5.224063,
+                    "lng": -37.284756
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979240,
+                "mnemonic": "-5.2235928, -37.286762",
+                "location": {
+                    "lat": -5.2235928,
+                    "lng": -37.286762
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979239,
+                "mnemonic": "-5.225366, -37.287224",
+                "location": {
+                    "lat": -5.225366,
+                    "lng": -37.287224
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979232,
+                "mnemonic": "-5.220991, -37.2954",
+                "location": {
+                    "lat": -5.220991,
+                    "lng": -37.2954
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949796,
+                "mnemonic": "R. Francisco Mota, 1371-1409 - Alto de São Manoel, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.203127,
+                    "lng": -37.325733
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949797,
+                "mnemonic": "R. Francisco Mota, 801-827 - Alto de São Manoel, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.205846,
+                    "lng": -37.32902
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949798,
+                "mnemonic": "R. Francisco Mota, 325-367 - Alto de São Manoel, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.207817,
+                    "lng": -37.33165
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949847,
+                "mnemonic": "Av. Pres. Dutra, 1611 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.2084637,
+                    "lng": -37.334152
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949848,
+                "mnemonic": "Av. Pres. Dutra, 1245 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.205969,
+                    "lng": -37.335663
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949799,
+                "mnemonic": "Av. Pres. Dutra, 1105-1111 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.2041473,
+                    "lng": -37.336803
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949800,
+                "mnemonic": "Av. Pres. Dutra, 955-999 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.2021,
+                    "lng": -37.3381
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949802,
+                "mnemonic": "R. Manoel Hemetério, 207 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1956954,
+                    "lng": -37.341286
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949803,
+                "mnemonic": "R. Santos Dumont, 160 - Centro, Mossoró - RN, 59600-170, Brasil",
+                "location": {
+                    "lat": -5.1931376,
+                    "lng": -37.341747
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949715,
+                "mnemonic": "Av. Augusto Severo, 86 - Centro, Mossoró - RN, 59600-150, Brasil",
+                "location": {
+                    "lat": -5.191422,
+                    "lng": -37.343002
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949605,
+                "mnemonic": "Av. Alberto Maranhão, 2040 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.189852,
+                    "lng": -37.34333
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949606,
+                "mnemonic": "R. Meira e Sá, 163-237 - Centro, Mossoró - RN, 59610-120, Brasil",
+                "location": {
+                    "lat": -5.190001,
+                    "lng": -37.342255
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949607,
+                "mnemonic": "R. Dr. Mario Negócio, 62 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190652,
+                    "lng": -37.34065
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949949,
+                "mnemonic": "R. Dr. Mario Negócio, 320-382 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.18939,
+                    "lng": -37.33869
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949950,
+                "mnemonic": "R. Mário Negócio, 2-90 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.188575,
+                    "lng": -37.337585
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949612,
+                "mnemonic": "R. Prudente de Morais, 1443-1553 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.187127,
+                    "lng": -37.33843
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949613,
+                "mnemonic": "R. Prudente de Morais, 1223-1315 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.185908,
+                    "lng": -37.34045
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950198,
+                "mnemonic": "R. Juvenal Lamartine, 215-375 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1854486,
+                    "lng": -37.34339
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949953,
+                "mnemonic": "R. Juvenal Lamartine, 107-199 - Centro, Mossoró - RN, 59603-040, Brasil",
+                "location": {
+                    "lat": -5.186611,
+                    "lng": -37.344105
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949712,
+                "mnemonic": "Av. Rio Branco, 3022-3128 - Bom Jardim, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.187665,
+                    "lng": -37.3435
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949713,
+                "mnemonic": "Condomínio Residencial Bem Viver - Av. Rio Branco, 1500 - Centro, Mossoró - RN, 59611-400, Brasil",
+                "location": {
+                    "lat": -5.189035,
+                    "lng": -37.34463
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949714,
+                "mnemonic": "Av. Augusto Severo, 323-329 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.19017,
+                    "lng": -37.34537
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950199,
+                "mnemonic": "Av. Augusto Severo, 225a - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1908607,
+                    "lng": -37.344303
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949716,
+                "mnemonic": "R. Cel. Gurgel, 106 - Alto da Conceição, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192626,
+                    "lng": -37.34291
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949717,
+                "mnemonic": "R. Cel. Gurgel, 235-285 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.19395,
+                    "lng": -37.34368
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949719,
+                "mnemonic": "R. Cel. Gurgel, 692 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.197364,
+                    "lng": -37.345806
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949720,
+                "mnemonic": "Av. Cunha da Mota, 445-523 - Centro, Mossoró - RN, 59600-160, Brasil",
+                "location": {
+                    "lat": -5.197718,
+                    "lng": -37.34525
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949721,
+                "mnemonic": "Av. Cunha da Mota, 117-161 - Centro, Mossoró - RN, 59600-160, Brasil",
+                "location": {
+                    "lat": -5.1948657,
+                    "lng": -37.34306
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949721,
+                "mnemonic": "Av. Cunha da Mota, 117-161 - Centro, Mossoró - RN, 59600-160, Brasil",
+                "location": {
+                    "lat": -5.1948657,
+                    "lng": -37.34306
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3951269,
+                "mnemonic": "Pte. Jerônimo Rosado, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.19569,
+                    "lng": -37.341846
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3951270,
+                "mnemonic": "Av. Pres. Dutra, 302-328 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.197774,
+                    "lng": -37.34073
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949724,
+                "mnemonic": "Av. Pres. Dutra, 406-480 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.200197,
+                    "lng": -37.33928
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949725,
+                "mnemonic": "Av. Pres. Dutra, 770 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.201848,
+                    "lng": -37.33834
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949726,
+                "mnemonic": "Av. Pres. Dutra, 1078-1092 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.2045217,
+                    "lng": -37.336723
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949727,
+                "mnemonic": "Av. Pres. Dutra, 1396 - Ilha de Santa Luzia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.207052,
+                    "lng": -37.335094
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949761,
+                "mnemonic": "R. Francisco Mota, 148-156 - Alto de São Manoel, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.208852,
+                    "lng": -37.33291
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949762,
+                "mnemonic": "R. Rosineide Alves Medeiros, 262-280 - Alto de São Manoel, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.20604,
+                    "lng": -37.329163
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949763,
+                "mnemonic": "R. Francisco Mota, 1138-1366 - Alto de São Manoel, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.20378,
+                    "lng": -37.326023
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950023,
+                "mnemonic": "Av. Prof. Antônio Campos, 2974 - Costa E Silva, Mossoró - RN, 59625-620, Brasil",
+                "location": {
+                    "lat": -5.2049875,
+                    "lng": -37.318657
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979232,
+                "mnemonic": "-5.220991, -37.2954",
+                "location": {
+                    "lat": -5.220991,
+                    "lng": -37.2954
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3979238,
+                "mnemonic": "-5.2266803, -37.285397",
+                "location": {
+                    "lat": -5.2266803,
+                    "lng": -37.285397
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            }
+        ]
     }
 ]
