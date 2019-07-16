@@ -4715,5 +4715,205 @@
                 "routeTypes": 1
             }
         ]
+    },
+    {
+        "id": 7,
+        "long_name": "NOVA VIDA",
+        "short_name": "NOVI01",
+        "calendar": [
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": true,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": true,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            }
+        ],
+        "stop_times": [
+            {
+                "departure_time": {
+                    "hour": 21,
+                    "minute": 8
+                },
+                "arrival time": {
+                    "hour": 23,
+                    "minute": 50
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 24
+                },
+                "arrival time": {
+                    "hour": 17,
+                    "minute": 42
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 20
+                },
+                "arrival time": {
+                    "hour": 17,
+                    "minute": 48
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 17,
+                    "minute": 58
+                },
+                "arrival time": {
+                    "hour": 20,
+                    "minute": 45
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 7,
+                    "minute": 38
+                },
+                "arrival time": {
+                    "hour": 13,
+                    "minute": 15
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 5,
+                    "minute": 40
+                },
+                "arrival time": {
+                    "hour": 17,
+                    "minute": 42
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 5,
+                    "minute": 30
+                },
+                "arrival time": {
+                    "hour": 16,
+                    "minute": 56
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 21,
+                    "minute": 45
+                },
+                "arrival time": {
+                    "hour": 23,
+                    "minute": 50
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 7,
+                    "minute": 0
+                },
+                "arrival time": {
+                    "hour": 12,
+                    "minute": 32
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 18,
+                    "minute": 56
+                },
+                "arrival time": {
+                    "hour": 20,
+                    "minute": 9
+                }
+            }
+        ],
+        "stops": []
     }
 ]
