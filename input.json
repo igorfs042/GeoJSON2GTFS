@@ -7598,5 +7598,822 @@
                 "routeTypes": 1
             }
         ]
+    },
+    {
+        "id": 10,
+        "long_name": "BOA VISTA/AEROPORTO/SHOPPING",
+        "short_name": "BVAS01",
+        "calendar": [
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            }
+        ],
+        "stop_times": [
+            {
+                "departure_time": {
+                    "hour": 22,
+                    "minute": 20
+                },
+                "arrival time": {
+                    "hour": 23,
+                    "minute": 50
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 21,
+                    "minute": 45
+                },
+                "arrival time": {
+                    "hour": 23,
+                    "minute": 50
+                }
+            }
+        ],
+        "stops": [
+            {
+                "id": 3949912,
+                "mnemonic": "Av. João da Escóssia, 1202-1228 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1709547,
+                    "lng": -37.375694
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949913,
+                "mnemonic": "Av. João da Escóssia, 3110-3200 - Lot. Cidade Nova, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.175277,
+                    "lng": -37.37034
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949914,
+                "mnemonic": "Av. João da Escóssia, 1986-2094 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.176949,
+                    "lng": -37.368237
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949915,
+                "mnemonic": "Estr. do Contôrno, 1798 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.182856,
+                    "lng": -37.36956
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949916,
+                "mnemonic": "R. Chico Teófilo, 118 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.184571,
+                    "lng": -37.37127
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949917,
+                "mnemonic": "R. Francisco de Assis, 703 - Dix Sept Rosado, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.185794,
+                    "lng": -37.37383
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949918,
+                "mnemonic": "R. Sebastião Benígno de Moura, 1002-1190 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.189016,
+                    "lng": -37.37823
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949919,
+                "mnemonic": "R. Francisca da Nóbrega Gurjel, 1-169 - Dix Sept Rosado, Mossoró - RN, 59609-011, Brasil",
+                "location": {
+                    "lat": -5.188595,
+                    "lng": -37.38122
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949920,
+                "mnemonic": "R. Francisca da Nóbrega Gurjel, 433-493 - Dix Sept Rosado, Mossoró - RN, 59609-011, Brasil",
+                "location": {
+                    "lat": -5.191234,
+                    "lng": -37.382523
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949921,
+                "mnemonic": "R. Francisca da Nóbrega Gurjel, 645-691 - Dix Sept Rosado, Mossoró - RN, 59609-011, Brasil",
+                "location": {
+                    "lat": -5.193248,
+                    "lng": -37.38355
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949923,
+                "mnemonic": "Av. Centenário, 5229-5247 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192979,
+                    "lng": -37.372257
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949925,
+                "mnemonic": "Rua Alexandre Gomes, 206-242 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.195299,
+                    "lng": -37.370644
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949926,
+                "mnemonic": "R. Profa. Rosa Freire, 364-390 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.196348,
+                    "lng": -37.371235
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949927,
+                "mnemonic": "R. Dolores do Carmo Rebouças, 5 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.198694,
+                    "lng": -37.372578
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949928,
+                "mnemonic": "R. Dolores do Carmo Rebouças, 6a - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.199727,
+                    "lng": -37.37099
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949929,
+                "mnemonic": "R. Dolores do Carmo Rebouças, 6-15 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.200391,
+                    "lng": -37.36956
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949930,
+                "mnemonic": "R. Tomaz Antônio da Silva, 12 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.198563,
+                    "lng": -37.368507
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949931,
+                "mnemonic": "Rua Cândido Clementino Barros, 27 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.197524,
+                    "lng": -37.368454
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949932,
+                "mnemonic": "Rua Cândido Clementino Barros, 349-423 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.195112,
+                    "lng": -37.36938
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949933,
+                "mnemonic": "Rua Cândido Clementino Barros, 199-267 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.193894,
+                    "lng": -37.36983
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949924,
+                "mnemonic": "R. Francisco Benício Nunes, 33-103 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.193586,
+                    "lng": -37.369816
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949934,
+                "mnemonic": "Rua Felipe Camarão, 3477 - Aeroporto, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192565,
+                    "lng": -37.368958
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949935,
+                "mnemonic": "Rua Felipe Camarão, 2761-2779 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192258,
+                    "lng": -37.36649
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949936,
+                "mnemonic": "Rua Felipe Camarão, 1989-2063 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.191821,
+                    "lng": -37.362633
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949937,
+                "mnemonic": "Rua Felipe Camarão, 1841-1923 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.191613,
+                    "lng": -37.360508
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949938,
+                "mnemonic": "R. Francisco Balduíno, 160-254 - Centro, Mossoró - RN, 59600-240, Brasil",
+                "location": {
+                    "lat": -5.192295,
+                    "lng": -37.357635
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949961,
+                "mnemonic": "R. Francisco Sólon, 417-457 - Boa Vista, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.193219,
+                    "lng": -37.356586
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949893,
+                "mnemonic": "R. Silva Jardim, 1149-1313 - Boa Vista, Mossoró - RN, 59605-100, Brasil",
+                "location": {
+                    "lat": -5.198486,
+                    "lng": -37.35413
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949944,
+                "mnemonic": "R. Silva Jardim, 949-1003 - Boa Vista, Mossoró - RN, 59605-100, Brasil",
+                "location": {
+                    "lat": -5.195754,
+                    "lng": -37.353172
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949945,
+                "mnemonic": "R. Nísia Floresta, 731-845 - Boa Vista, Mossoró - RN, 59605-270, Brasil",
+                "location": {
+                    "lat": -5.194476,
+                    "lng": -37.35159
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949946,
+                "mnemonic": "R. Nísia Floresta, 381-479 - Boa Vista, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.195833,
+                    "lng": -37.349277
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949947,
+                "mnemonic": "R. Nísia Floresta, 191-267 - Boa Vista, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.196966,
+                    "lng": -37.347282
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949720,
+                "mnemonic": "Av. Cunha da Mota, 445-523 - Centro, Mossoró - RN, 59600-160, Brasil",
+                "location": {
+                    "lat": -5.197718,
+                    "lng": -37.34525
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950038,
+                "mnemonic": "R. José de Alençar, 94 - Alto da Conceição, Mossoró - RN, 59600-190, Brasil",
+                "location": {
+                    "lat": -5.194238,
+                    "lng": -37.34481
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950038,
+                "mnemonic": "R. José de Alençar, 94 - Alto da Conceição, Mossoró - RN, 59600-190, Brasil",
+                "location": {
+                    "lat": -5.194238,
+                    "lng": -37.34481
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949604,
+                "mnemonic": "Av. Alberto Maranhão, 1666-1690 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192811,
+                    "lng": -37.345127
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949605,
+                "mnemonic": "Av. Alberto Maranhão, 2040 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.189852,
+                    "lng": -37.34333
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949606,
+                "mnemonic": "R. Meira e Sá, 163-237 - Centro, Mossoró - RN, 59610-120, Brasil",
+                "location": {
+                    "lat": -5.190001,
+                    "lng": -37.342255
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949607,
+                "mnemonic": "R. Dr. Mario Negócio, 62 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190652,
+                    "lng": -37.34065
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949948,
+                "mnemonic": "R. Dr. Mario Negócio, 126-142 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190442,
+                    "lng": -37.34034
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949949,
+                "mnemonic": "R. Dr. Mario Negócio, 320-382 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.18939,
+                    "lng": -37.33869
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949716,
+                "mnemonic": "R. Cel. Gurgel, 106 - Alto da Conceição, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192626,
+                    "lng": -37.34291
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949717,
+                "mnemonic": "R. Cel. Gurgel, 235-285 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.19395,
+                    "lng": -37.34368
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949887,
+                "mnemonic": "Rua Frei Miguelinho, 67 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192627,
+                    "lng": -37.347023
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949888,
+                "mnemonic": "Rua Frei Miguelinho, 83-661 - Centro, Mossoró - RN, 59600-250, Brasil",
+                "location": {
+                    "lat": -5.191936,
+                    "lng": -37.34824
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949889,
+                "mnemonic": "R. Silva Jardim, 243-337 - Doze Anos, Mossoró - RN, 59603-100, Brasil",
+                "location": {
+                    "lat": -5.190985,
+                    "lng": -37.350376
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949890,
+                "mnemonic": "R. Silva Jardim, 385-439 - Boa Vista, Mossoró - RN, 59605-100, Brasil",
+                "location": {
+                    "lat": -5.192088,
+                    "lng": -37.351067
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949891,
+                "mnemonic": "R. Silva Jardim, 642-714 - Boa Vista, Mossoró - RN, 59605-100, Brasil",
+                "location": {
+                    "lat": -5.193375,
+                    "lng": -37.35186
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949892,
+                "mnemonic": "R. Silva Jardim, 949-1003 - Boa Vista, Mossoró - RN, 59605-100, Brasil",
+                "location": {
+                    "lat": -5.19545,
+                    "lng": -37.35301
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949943,
+                "mnemonic": "R. Silva Jardim, 1149-1313 - Boa Vista, Mossoró - RN, 59605-100, Brasil",
+                "location": {
+                    "lat": -5.198347,
+                    "lng": -37.354088
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949899,
+                "mnemonic": "R. Dom Bôsco, 93-145 - Alto da Conceição, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190949,
+                    "lng": -37.357094
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949900,
+                "mnemonic": "Rua Felipe Camarão, 1860-1924 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.191438,
+                    "lng": -37.360527
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949901,
+                "mnemonic": "R. Antônio Vieira de Sá, 6-10 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.19184,
+                    "lng": -37.366753
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949902,
+                "mnemonic": "R. Antônio Vieira de Sá, 42 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190176,
+                    "lng": -37.365982
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949903,
+                "mnemonic": "R. Antônio Vieira de Sá, 168 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.186917,
+                    "lng": -37.364403
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949904,
+                "mnemonic": "R. Antônio Vieira de Sá, 256-276 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.18493,
+                    "lng": -37.363438
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949905,
+                "mnemonic": "R. Antônio Vieira de Sá, 2-196 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.182918,
+                    "lng": -37.3624
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949906,
+                "mnemonic": "Rua Amaro Duarte, 370 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.18039,
+                    "lng": -37.36151
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949907,
+                "mnemonic": "Av. João da Escóssia, 1250-1264 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.180399,
+                    "lng": -37.36314
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949908,
+                "mnemonic": "Av. João da Escóssia, 1272-1290 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.179323,
+                    "lng": -37.364952
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949909,
+                "mnemonic": "Av. João da Escóssia, 2095-2171 - Lot. Cidade Nova, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.177353,
+                    "lng": -37.36753
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949910,
+                "mnemonic": "Av. João da Escóssia, 1643-1815 - Lot. Cidade Nova, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.175647,
+                    "lng": -37.369663
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949911,
+                "mnemonic": "Av. João da Escóssia, 1275-1289 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.172691,
+                    "lng": -37.373302
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949912,
+                "mnemonic": "Av. João da Escóssia, 1202-1228 - Nova Betânia, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1709547,
+                    "lng": -37.375694
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            }
+        ]
     }
 ]
