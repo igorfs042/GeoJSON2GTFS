@@ -8415,5 +8415,862 @@
                 "routeTypes": 1
             }
         ]
+    },
+    {
+        "id": 12,
+        "long_name": "NOVA MOSSORÓ/SANTO ANTÔNIO",
+        "short_name": "NMSA01",
+        "calendar": [
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            },
+            {
+                "sunday": false,
+                "monday": true,
+                "tuesday": true,
+                "wednesday": true,
+                "thursday": true,
+                "friday": true,
+                "saturday": false
+            },
+            {
+                "sunday": false,
+                "monday": false,
+                "tuesday": false,
+                "wednesday": false,
+                "thursday": false,
+                "friday": false,
+                "saturday": true
+            }
+        ],
+        "stop_times": [
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 49
+                },
+                "arrival time": {
+                    "hour": 18,
+                    "minute": 58
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 7,
+                    "minute": 5
+                },
+                "arrival time": {
+                    "hour": 12,
+                    "minute": 45
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 0
+                },
+                "arrival time": {
+                    "hour": 18,
+                    "minute": 10
+                }
+            },
+            {
+                "departure_time": {
+                    "hour": 6,
+                    "minute": 10
+                },
+                "arrival time": {
+                    "hour": 13,
+                    "minute": 35
+                }
+            }
+        ],
+        "stops": [
+            {
+                "id": 3963069,
+                "mnemonic": "Unnamed Road, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1178412,
+                    "lng": -37.332047
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961952,
+                "mnemonic": "BR-304, 6221, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1146092,
+                    "lng": -37.340534
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961950,
+                "mnemonic": "BR-304, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1244454,
+                    "lng": -37.34274
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961948,
+                "mnemonic": "BR-304, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.131749,
+                    "lng": -37.344307
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949683,
+                "mnemonic": "BR-304, 885 - Santa Delmira, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.147839,
+                    "lng": -37.34777
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963083,
+                "mnemonic": "R. Ercinina Lopes de Oliveira - Santo Antônio, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.162059,
+                    "lng": -37.345974
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963085,
+                "mnemonic": "Av. Rio Branco, 568-584 - Bom Jardim, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1651897,
+                    "lng": -37.344494
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950041,
+                "mnemonic": "R. Ericina Lopes de Oliveira, 66-152 - Santo Antônio, Mossoró - RN, 59619-047, Brasil",
+                "location": {
+                    "lat": -5.165577,
+                    "lng": -37.343452
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3955050,
+                "mnemonic": "Rua Nicácia Costa de Araújo, 697-731 - Santo Antônio, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1628017,
+                    "lng": -37.341434
+                },
+                "bearing": -1,
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3955038,
+                "mnemonic": "Rua Nicácia Costa de Araújo, 150-156 - Santo Antônio, Mossoró - RN, 59621-270, Brasil",
+                "location": {
+                    "lat": -5.1645756,
+                    "lng": -37.33871
+                },
+                "bearing": -1,
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950080,
+                "mnemonic": "R. Seis de Janeiro, 2372-2484 - Barrocas, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.166205,
+                    "lng": -37.335728
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950081,
+                "mnemonic": "R. Seis de Janeiro, 2239-2369 - Barrocas, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1673536,
+                    "lng": -37.33643
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950082,
+                "mnemonic": "R. Seis de Janeiro, 2129-2235 - Barrocas, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1686196,
+                    "lng": -37.33721
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950078,
+                "mnemonic": "R. Zéca Cirilino, 345-385 - Barrocas, Mossoró - RN, 59621-470, Brasil",
+                "location": {
+                    "lat": -5.166899,
+                    "lng": -37.333218
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950077,
+                "mnemonic": "R. Zéca Cirilino, 509-565 - Barrocas, Mossoró - RN, 59621-470, Brasil",
+                "location": {
+                    "lat": -5.1676955,
+                    "lng": -37.332016
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950076,
+                "mnemonic": "Av. Alberto Maranhão, 4881 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.168935,
+                    "lng": -37.330788
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950075,
+                "mnemonic": "Av. Alberto Maranhão, 4510-4586 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.17088,
+                    "lng": -37.33197
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950074,
+                "mnemonic": "Av. Alberto Maranhão, 4310-4388 - Centro, Mossoró - RN, 59600-195, Brasil",
+                "location": {
+                    "lat": -5.1722045,
+                    "lng": -37.33277
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950073,
+                "mnemonic": "Av. Alberto Maranhão, 4058 - Centro, Mossoró - RN, 59600-195, Brasil",
+                "location": {
+                    "lat": -5.174304,
+                    "lng": -37.334026
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949612,
+                "mnemonic": "R. Prudente de Morais, 1443-1553 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.187127,
+                    "lng": -37.33843
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949613,
+                "mnemonic": "R. Prudente de Morais, 1223-1315 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.185908,
+                    "lng": -37.34045
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949952,
+                "mnemonic": "R. Prudente de Morais, 1101-1155 - Paredões, Mossoró - RN, 59618-045, Brasil",
+                "location": {
+                    "lat": -5.185436,
+                    "lng": -37.34128
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949615,
+                "mnemonic": "R. Juvenal Lamartine, 375 - Centro, Mossoró - RN, 59611-100, Brasil",
+                "location": {
+                    "lat": -5.184977,
+                    "lng": -37.34309
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950191,
+                "mnemonic": "R. Juvenal Lamartine, 215-375 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1857586,
+                    "lng": -37.34357
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949616,
+                "mnemonic": "R. Juvenal Lamartine, 107-199 - Centro, Mossoró - RN, 59603-040, Brasil",
+                "location": {
+                    "lat": -5.186424,
+                    "lng": -37.343983
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949712,
+                "mnemonic": "Av. Rio Branco, 3022-3128 - Bom Jardim, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.187665,
+                    "lng": -37.3435
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949713,
+                "mnemonic": "Condomínio Residencial Bem Viver - Av. Rio Branco, 1500 - Centro, Mossoró - RN, 59611-400, Brasil",
+                "location": {
+                    "lat": -5.189035,
+                    "lng": -37.34463
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949714,
+                "mnemonic": "Av. Augusto Severo, 323-329 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.19017,
+                    "lng": -37.34537
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950199,
+                "mnemonic": "Av. Augusto Severo, 225a - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1908607,
+                    "lng": -37.344303
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949716,
+                "mnemonic": "R. Cel. Gurgel, 106 - Alto da Conceição, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192626,
+                    "lng": -37.34291
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949717,
+                "mnemonic": "R. Cel. Gurgel, 235-285 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.19395,
+                    "lng": -37.34368
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949719,
+                "mnemonic": "R. Cel. Gurgel, 692 - Alto da Conceição, Mossoró - RN, 59600-322, Brasil",
+                "location": {
+                    "lat": -5.197364,
+                    "lng": -37.345806
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949720,
+                "mnemonic": "Av. Cunha da Mota, 445-523 - Centro, Mossoró - RN, 59600-160, Brasil",
+                "location": {
+                    "lat": -5.197718,
+                    "lng": -37.34525
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950038,
+                "mnemonic": "R. José de Alençar, 94 - Alto da Conceição, Mossoró - RN, 59600-190, Brasil",
+                "location": {
+                    "lat": -5.194238,
+                    "lng": -37.34481
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950038,
+                "mnemonic": "R. José de Alençar, 94 - Alto da Conceição, Mossoró - RN, 59600-190, Brasil",
+                "location": {
+                    "lat": -5.194238,
+                    "lng": -37.34481
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949604,
+                "mnemonic": "Av. Alberto Maranhão, 1666-1690 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.192811,
+                    "lng": -37.345127
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949606,
+                "mnemonic": "R. Meira e Sá, 163-237 - Centro, Mossoró - RN, 59610-120, Brasil",
+                "location": {
+                    "lat": -5.190001,
+                    "lng": -37.342255
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949607,
+                "mnemonic": "R. Dr. Mario Negócio, 62 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.190652,
+                    "lng": -37.34065
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949608,
+                "mnemonic": "R. Dr. Almino Afonso, 340 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.19043,
+                    "lng": -37.34026
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949949,
+                "mnemonic": "R. Dr. Mario Negócio, 320-382 - Centro, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.18939,
+                    "lng": -37.33869
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3949610,
+                "mnemonic": "R. Mário Negócio, 2-90 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.188962,
+                    "lng": -37.338036
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950068,
+                "mnemonic": "R. Venceslau Braz, 966 - Barrocas, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1818104,
+                    "lng": -37.334763
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950070,
+                "mnemonic": "R. Venceslau Braz, 1310 - Paredões, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.178402,
+                    "lng": -37.332603
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950071,
+                "mnemonic": "R. João Cordeiro, 1218-1306 - Paredões, Mossoró - RN, 59618-255, Brasil",
+                "location": {
+                    "lat": -5.1771784,
+                    "lng": -37.333168
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950072,
+                "mnemonic": "R. João Cordeiro, 1008-1128 - Paredões, Mossoró - RN, 59618-255, Brasil",
+                "location": {
+                    "lat": -5.176233,
+                    "lng": -37.33461
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950084,
+                "mnemonic": "Rua Nicácia Costa de Araújo, 144-148 - Santo Antônio, Mossoró - RN, 59621-270, Brasil",
+                "location": {
+                    "lat": -5.16473,
+                    "lng": -37.338467
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3950085,
+                "mnemonic": "Rua Nicácia Costa de Araújo, 734-806 - Santo Antônio, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1626573,
+                    "lng": -37.341595
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963084,
+                "mnemonic": "Av. Rio Branco, 220 - Bom Jardim, Mossoró - RN, 59618-720, Brasil",
+                "location": {
+                    "lat": -5.1609583,
+                    "lng": -37.34623
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961946,
+                "mnemonic": "BR-304, 885 - Santa Delmira, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1498137,
+                    "lng": -37.348076
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963078,
+                "mnemonic": "R. Celso Rego, 3737 - Santo Antônio, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.150134,
+                    "lng": -37.346756
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963079,
+                "mnemonic": "R. Celso Rego, 168 - Santo Antônio, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1504974,
+                    "lng": -37.34549
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963080,
+                "mnemonic": "BR-304, 885 - Santa Delmira, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.145518,
+                    "lng": -37.347122
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963081,
+                "mnemonic": "BR-304, 2806 - Redenção, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1405916,
+                    "lng": -37.345963
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963082,
+                "mnemonic": "BR-304, 2886 - Redenção, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.134421,
+                    "lng": -37.34479
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961947,
+                "mnemonic": "BR-304, 2886 - Redenção, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.131947,
+                    "lng": -37.34425
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961949,
+                "mnemonic": "BR-304, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.124702,
+                    "lng": -37.342686
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3961951,
+                "mnemonic": "BR-304, 6221, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1151114,
+                    "lng": -37.340534
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963077,
+                "mnemonic": "Avenida dos Automóveis, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.11657,
+                    "lng": -37.337746
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963070,
+                "mnemonic": "Avenida dos Automóveis, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1194124,
+                    "lng": -37.33267
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963071,
+                "mnemonic": "Unnamed Road, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.12078,
+                    "lng": -37.33063
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963072,
+                "mnemonic": "Unnamed Road, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1222014,
+                    "lng": -37.328323
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963075,
+                "mnemonic": "Unnamed Road, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1205344,
+                    "lng": -37.327766
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963076,
+                "mnemonic": "Unnamed Road, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.119092,
+                    "lng": -37.329987
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 1,
+                "routeTypes": 1
+            },
+            {
+                "id": 3963069,
+                "mnemonic": "Unnamed Road, Mossoró - RN, Brasil",
+                "location": {
+                    "lat": -5.1178412,
+                    "lng": -37.332047
+                },
+                "status": "OK",
+                "services": [],
+                "kind": 2,
+                "routeTypes": 1
+            }
+        ]
     }
 ]
